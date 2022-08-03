@@ -37,6 +37,5 @@ public class Main {
         } else {
             System.out.println( " Итоговый счет: " + amount + " рублей " );
         }
-
     }
 }
